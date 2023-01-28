@@ -1,0 +1,45 @@
+body {
+  background-image: url("station.jpg");
+
+  font-weight: bold;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h2 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+/* #increment-button {
+  background-color: maroon;
+} */
+button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+#increment-button {
+  margin-bottom: 10px;
+  background: maroon;
+}
+#decrement-button {
+  margin-bottom: 10px;
+  background: darkviolet;
+}
+#reset-button {
+  margin-bottom: 10px;
+  background: darkblue;
+}
+#save-button {
+  margin-bottom: 10px;
+  background: green;
+}
